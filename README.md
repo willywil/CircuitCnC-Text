@@ -7,8 +7,8 @@
  -to conquer the land. To gather resources and use those resources to build and create an empire. If you are faced with an opposition then you need to defend.
  -If your land is threated you attack. 
  -The goal for the game play is too build the circuit that will help you defend an attack or to attack an opponent. Buildings will be able to handle a certain 
- -amount of "energy" applied. Weapons will be the source of energy to apply to buildings. Solder could be a resource to collect as a monitary commodity. 
-
+ -amount of "energy" applied. Weapons will be the source of energy to apply to buildings as a form of damage. Solder could be a resource to collect as a monitary commodity. 
+ -Metal or steel could be a material for shielding and Copper could be the material to construct roads or traces between components.
 
 
  Things players can do:
@@ -17,6 +17,10 @@
 		1)Capacitor/Battery is the electron collection facility this is the resources building
 		2)Zener diode is a simple voltage regulator device and is useful to build more complex circuits
 2) Collect resources (electrons, etc)
+	a)Electrons
+	b)Solder
+	c)Metal- maybe
+	d)Copper - maybe
 3) Build weapons from resources (electrons, etc)
 4) Fire those weapons on enemies
 4) See instantaneous values that describe the circuit (efficiency, temperature, damage,  resources accumulated)
